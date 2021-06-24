@@ -1,3 +1,3 @@
-const server = require('./backend/src/config')
+const server = require("./backend/src/config");
 
-server.listen(3001)
+server.listen(3000);
